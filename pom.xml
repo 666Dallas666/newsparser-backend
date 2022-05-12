@@ -14,7 +14,7 @@
 	<name>newsparser</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>17</java.version>
 		<testcontainers.version>1.16.0</testcontainers.version>
 		<hibernate.version>5.6.1.Final</hibernate.version>
 		<jsoup.version>1.14.3</jsoup.version>
